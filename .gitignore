@@ -1,5 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# R
 .Rhistory
 .RData
 .Rproj.user/
 *.Rproj
+
+# VS Code
 .vscode/
+
+# Original dataset
+data/StudentPerformanceFactors.csv
+
+# Raw 100-student sample
+data/StudentPerformance_100.csv
